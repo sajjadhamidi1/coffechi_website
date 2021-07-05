@@ -1,2 +1,2 @@
 # coffechi_website
-#bootstrap templete for coffeshop website
+#bootstrap responsive templete for coffeshop website
